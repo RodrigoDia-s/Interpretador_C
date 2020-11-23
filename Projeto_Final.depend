@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1602189853 source:c:\users\samsung\desktop\ifsp\3º semestre\sistemas operacionais\projeto_final\projfin.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<dos.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+	<unistd.h>
+	<time.h>
+	<direct.h>
+	<windows.h>
+
+1602177937 c:\users\samsung\desktop\ifsp\3º semestre\sistemas operacionais\projeto_final\projfin.h
+	<stdio.h>
+
+1602003143 c:\users\samsung\desktop\ifsp\3º semestre\sistemas operacionais\projeto_final\projfin.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<dos.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+	<time.h>
+	<direct.h>
+	"ProjFin.h"
+
+1602188569 source:c:\users\samsung\desktop\ifsp\3º semestre\sistemas operacionais\projeto_final\main.c
+	<stdlib.h>
+	<math.h>
+	<dos.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+	<time.h>
+	<direct.h>
+	"ProjFin.h"
+
